@@ -1,0 +1,13 @@
+{
+  "name": "weather-server",
+  "version": "1.0.0",
+  "description": "A server to fetch weather data for a given city.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^5.1.0"
+  }
+}
